@@ -1,3 +1,4 @@
 prikol
-bez prikolov plz
-prikola ne bydet
+bezprikolovplz
+prikolanebydet
+Add line
